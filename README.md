@@ -1,2 +1,2 @@
 # datasciencecoursera
-Coursera Data Science Specialization
+Sarajit Poddar's Repository for Coursera Data Science Specialization
